@@ -4539,7 +4539,7 @@ p.contact-p {
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .accordion:hover {
+.active1, .accordion:hover {
   background-color: #1dc8d9;
 }
 
@@ -4558,7 +4558,7 @@ p.contact-p {
   margin-left: 5px;
 }
 
-.active:after {
+.active1:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
 
